@@ -12,3 +12,7 @@ val = 2023
 nat = int(val - sal)
 
 print(nat)
+
+#comments add davoud 
+
+print(nat)
